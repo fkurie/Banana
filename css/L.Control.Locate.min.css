@@ -1,2 +1,13 @@
 .leaflet-control-locate a{font-size:1.4em;color:#444}.leaflet-control-locate.active a{color:#2074B6}.leaflet-control-locate.active.following a{color:#FC8428}
 /*# sourceMappingURL=L.Control.Locate.min.css.map */
+h2 {
+	display: block;
+	background-color: #EAF6F6;
+	margin: 0;
+	text-align: center;
+	position: static;
+	left: 10px;
+	top: 10px;
+	
+	
+}
